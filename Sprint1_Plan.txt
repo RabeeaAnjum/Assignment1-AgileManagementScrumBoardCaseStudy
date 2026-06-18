@@ -1,0 +1,41 @@
+Sprint 1 Plan
+
+Sprint Duration: 2 Weeks
+
+Sprint Goal:
+By the end of Sprint 1, students will be able to browse cafeteria menus, select pickup times, place orders, and cafeteria staff will be able to view incoming orders.
+
+Selected User Stories for Sprint 1
+
+1. View Today's Menu
+Story Points: 3
+
+2. Choose Pickup Time Slot
+Story Points: 3
+
+3. Make Online Payment
+Story Points: 5
+
+4. View Incoming Orders
+Story Points: 3
+
+Total Story Points:
+14
+
+Task Breakdown
+
+User Story 1: View Today's Menu
+Task 1: Design menu display page
+Task 2: Display cafeteria menu data
+
+User Story 2: Choose Pickup Time Slot
+Task 1: Create pickup time selection interface
+Task 2: Store selected pickup time
+
+User Story 3: Make Online Payment
+Task 1: Design payment page
+Task 2: Process payment information
+
+User Story 4: View Incoming Orders
+Task 1: Create order management dashboard
+Task 2: Display incoming orders to cafeteria staff
