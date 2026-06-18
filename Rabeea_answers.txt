@@ -1,0 +1,19 @@
+Q1. Agile vs Waterfall
+
+Agile methods were developed because software projects often face changing customer requirements and market needs. In the Waterfall model, most planning is completed before development begins, making changes difficult later in the project. Agile allows teams to deliver software in small increments and gather feedback regularly. This approach improves adaptability and customer satisfaction.
+
+Q2. Product Backlog vs Sprint Backlog
+
+The Product Backlog is a prioritized list of all features and requirements that may be implemented in the project. The Sprint Backlog contains only the work selected for the current sprint. This distinction helps the team focus on short-term objectives while still maintaining awareness of long-term project goals. It also makes sprint progress easier to track and manage.
+
+Q3. User Stories
+
+A good user story should be concise, easy to understand, and focused on delivering value to the end user. It should clearly state who the user is, what they need, and why they need it. The user story about viewing today's cafeteria menu is effective because it identifies the student as the user and explains the benefit of making informed food choices. This makes the requirement clear for developers.
+
+Q4. Daily Standup
+
+The Daily Standup is a brief Scrum meeting that helps team members stay informed about project progress. It encourages transparency by allowing everyone to share updates and discuss any challenges they are facing. The meeting is intentionally limited to 15 minutes to prevent unnecessary discussions and keep the team productive. Longer conversations can be handled separately after the standup.
+
+Q5. Story Points
+
+One challenge in assigning story points was estimating the effort required for features that had not yet been implemented. Different team members sometimes had different opinions about the complexity of a task. We resolved these differences by discussing the requirements and comparing each story with similar ones. This helped us reach a fair estimate that everyone agreed upon.
