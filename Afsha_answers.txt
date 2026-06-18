@@ -1,0 +1,19 @@
+Q1. Agile vs Waterfall
+
+Agile was introduced to handle changing requirements more effectively than traditional software development methods. In the Waterfall model, requirements are usually defined at the beginning and changes later in the project can be expensive and difficult. Agile uses short development cycles called sprints, allowing teams to adapt quickly. This flexibility helps deliver software that better meets customer needs.
+
+Q2. Product Backlog vs Sprint Backlog
+
+The Product Backlog contains all desired features, enhancements, and requirements for the entire project. The Sprint Backlog contains only the items selected for the current sprint. This separation helps the team focus on a manageable amount of work during a specific time period. It also allows the Product Backlog to evolve without disrupting ongoing sprint activities.
+
+Q3. User Stories
+
+A good user story should clearly identify the user, the required functionality, and the value it provides. It should be simple, understandable, and focused on user needs rather than technical details. The story about choosing a pickup time slot is well-written because it clearly explains the student's goal and benefit. It helps developers understand why the feature is important.
+
+Q4. Daily Standup
+
+The Daily Standup is a short meeting where team members share their progress, plans, and any obstacles they are facing. It improves communication and helps identify problems early. Team members typically discuss what they completed yesterday, what they will do today, and any blockers. The meeting is limited to 15 minutes to keep it focused and efficient.
+
+Q5. Story Points
+
+Estimating story points can be difficult because team members may have different views about the complexity of a feature. Some tasks may appear simple but involve hidden challenges. Our team discussed each user story and compared it with other stories to reach a common understanding. This collaborative approach helped us assign more accurate story point estimates.
