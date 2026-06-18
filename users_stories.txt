@@ -1,0 +1,57 @@
+CampusEats Product Backlog
+
+Story 1
+As a student,
+I want to view today's cafeteria menu,
+so that I can decide what food to order.
+Priority: High
+Story Points: 3
+
+Story 2
+As a student,
+I want to choose a pickup time slot,
+so that I can collect my food at a convenient time.
+Priority: High
+Story Points: 3
+
+Story 3
+As a student,
+I want to pay for my order through the application,
+so that I can complete my purchase online.
+Priority: High
+Story Points: 5
+
+Story 4
+As a cafeteria staff member,
+I want to view incoming orders,
+so that I can prepare food efficiently.
+Priority: High
+Story Points: 3
+
+Story 5
+As a student,
+I want to receive a notification when my order is ready,
+so that I know when to collect it.
+Priority: Medium
+Story Points: 5
+
+Story 6
+As a student,
+I want to rate my meal after pickup,
+so that I can provide feedback on food quality.
+Priority: Low
+Story Points: 2
+
+Story 7
+As a student,
+I want to view my order history,
+so that I can review my previous purchases.
+Priority: Medium
+Story Points: 3
+
+Story 8
+As an admin,
+I want to update daily cafeteria menus,
+so that students always see current menu information.
+Priority: High
+Story Points: 3
